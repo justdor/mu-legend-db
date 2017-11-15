@@ -220,6 +220,127 @@
 		"stats": {
 			"Non-fixed affixes": "3"
 		}
+	},
+	"13": {
+		"name": "Careful Wolf's Dragon Hunter Glove",
+		"tags": [{
+				"tag": "War Mage"
+			},
+			{
+				"tag": "Gloves"
+			},
+			{
+				"tag": "Mythic"
+			}
+		],
+		"stats": {
+			"Non-fixed affixes": "3"
+		}
+	},
+	"14": {
+		"name": "Bloodstained Robe",
+		"tags": [{
+				"tag": "War Mage"
+			},
+			{
+				"tag": "Chest"
+			},
+			{
+				"tag": "Mythic"
+			}
+		],
+		"stats": {
+			"Elite/Boss Monster Attack":"+20.00%",
+			"All Damage Reduction":"+2%",
+			"Non-fixed affixes": "1"
+		}
+	},
+	"15": {
+		"name": "Dogged Hyena's Dragon Hunter",
+		"tags": [{
+				"tag": "Any"
+			},
+			{
+				"tag": "Earring"
+			},
+			{
+				"tag": "Mythic"
+			}
+		],
+		"stats": {
+			"Non-fixed affixes": "4"
+		}
+	},
+	"16": {
+		"name": "Chaser Ring",
+		"tags": [{
+				"tag": "Any"
+			},
+			{
+				"tag": "Ring"
+			},
+			{
+				"tag": "Ancient"
+			}
+		],
+		"stats": {
+			"Beast Attack":"+20.00%",
+			"Beast Damage Reduction":"+4.00%",
+			"Non-fixed affixes": "2"
+		}
+	},
+	"17": {
+		"name": "Demon Summoning Book",
+		"tags": [{
+				"tag": "War Mage"
+			},
+			{
+				"tag": "Secondary Weapon"
+			},
+			{
+				"tag": "Ancient"
+			}
+		],
+		"stats": {
+			"Demon Attack":"+20.00%",
+			"Non-fixed affixes": "2"
+		}
+	},
+	"18": {
+		"name": "Spell Protection Shoes",
+		"tags": [{
+				"tag": "War Mage"
+			},
+			{
+				"tag": "Shoes"
+			},
+			{
+				"tag": "Ancient"
+			}
+		],
+		"stats": {
+			"Attack":"+97",
+			"All Damage Reduction":"+1.50%"
+			"Non-fixed affixes": "1"
+		}
+	},
+	"19": {
+		"name": "Dragon Pattern Gloves",
+		"tags": [{
+				"tag": "War Mage"
+			},
+			{
+				"tag": "Gloves"
+			},
+			{
+				"tag": "Ancient"
+			}
+		],
+		"stats": {
+			"Critical Rate":"+4.00%",
+			"Critical Damage":"+12.00%"
+			"Non-fixed affixes": "1"
+		}
 	}
 
 }
