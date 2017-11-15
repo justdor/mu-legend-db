@@ -320,7 +320,7 @@
 		],
 		"stats": {
 			"Attack":"+97",
-			"All Damage Reduction":"+1.50%"
+			"All Damage Reduction":"+1.50%",
 			"Non-fixed affixes": "1"
 		}
 	},
@@ -338,7 +338,7 @@
 		],
 		"stats": {
 			"Critical Rate":"+4.00%",
-			"Critical Damage":"+12.00%"
+			"Critical Damage":"+12.00%",
 			"Non-fixed affixes": "1"
 		}
 	}
